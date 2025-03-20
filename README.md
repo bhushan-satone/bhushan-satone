@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhushan-satone" alt="bhushan-satone" /></a> </p>
 
+- 🌍  I'm based in India
+
 - 🌱 I’m currently learning **nodejs, expressjs, mongodb, aws**
 
 - 📫 How to reach me **bhushansatonew@gmail.com**

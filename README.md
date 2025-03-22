@@ -13,7 +13,7 @@
 
 - 🌍  I'm based in **India**
 
-- 🌱 I’m currently learning **nodejs, expressjs, mongodb, aws**
+- 🌱 I’m currently learning **Nodejs, Expressjs, MongoDB, AWS**
 
 - 📫 How to reach me **bhushansatonew@gmail.com**
 

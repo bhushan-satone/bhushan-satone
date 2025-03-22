@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src='https://user-images.githubusercontent.com/54101509/184473351-9a66aa92-d8f2-45bf-a9a7-26cefa437bda.gif' width='40' />, I'm Bhushan Satone</h1>
+<h1 align="center">Hi 👋, I'm Bhushan Satone</h1>
 
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <p align="left">

@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img align='right' src='https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966' alt='coding' width='400' />
+<img align='right' src='https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif' alt='coding' width='400' />
 
 - 🌍 I'm based in **India**.
 

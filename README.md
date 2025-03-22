@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bhushan-satone" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-satone" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="bhushan-satone" height="40" width="40" />
   </a>
 </p>
 
@@ -38,63 +38,64 @@
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title='Bootstrap'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title='Photoshop'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" titel='React'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title='Figma'> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title='TailwindCSS'> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='TypeScript'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> 
   </a> &nbsp;  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title='MongoDB'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" title='Redux'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer" title='Chart'> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title='AWS'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>     </a> &nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>     
+  </a> &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/>
   </a> &nbsp;      
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title='Docker'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" title='Express'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
   </a> &nbsp;  
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title='Firebase'> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> 
   </a> &nbsp;      
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://jestjs.io" target="_blank" rel="noreferrer" title='Jest'> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title='Kubernetes'> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> 
   </a> &nbsp;  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title='NodeJs'> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
   </a> &nbsp;      
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" titel='React Native'> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 

@@ -46,6 +46,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> 
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
   </a> &nbsp;
+  <a href='https://github.com/' target='_blank' rel='noreferrer' title='GitHub'>
+    <img src='https://skillicons.dev/icons?i=github' alt='github' width='40' height='40' />
+  </a> &nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title='Photoshop'> 
     <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp;

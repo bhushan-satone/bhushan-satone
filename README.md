@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/bhushan-satone" target="blank">
+  <a href="https://linkedin.com/in/bhushan-satone" target="blank" title='Linkedin'>
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="bhushan-satone" height="40" width="40" />
   </a>
 </p>

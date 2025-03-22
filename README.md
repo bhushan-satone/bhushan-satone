@@ -46,7 +46,7 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" title='Photoshop'> 
     <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> 
   </a> &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" titel='React'> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title='React'> 
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
   </a> &nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> 
@@ -97,7 +97,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title='NodeJs'> 
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> 
   </a> &nbsp;      
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" titel='React Native'> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title='React Native'> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> &nbsp;      
 </p>

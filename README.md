@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bhushan Satone</h1>
+<h1 align="center"><span style="display: inline-flex; align-items: center;">Hi <img src='https://user-images.githubusercontent.com/54101509/184473351-9a66aa92-d8f2-45bf-a9a7-26cefa437bda.gif' width='40' />, I'm Bhushan Satone</span></h1>
+
+<h1 align="center">Hi <img src='https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif' width='50' style='vertical-align: middle' />, I'm Bhushan Satone</h1>
+
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bhushan-satone&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan-satone" />
@@ -11,6 +14,7 @@
 </p>
 
 <img align='right' src='https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif' alt='coding' width='400' />
+
 
 - 🌍 I'm based in **India**.
 

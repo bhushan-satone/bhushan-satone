@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<img align='right' src='https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif' alt='coding' width='350' />
+<img align='right' src='https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif' alt='coding' width='380' />
 
 
 - 🌍 I'm based in **India**.
